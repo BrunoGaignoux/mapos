@@ -8,7 +8,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost'; 
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'W@sistemas2017';
+$db['default']['password'] = '';
 $db['default']['database'] = 'wos';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
