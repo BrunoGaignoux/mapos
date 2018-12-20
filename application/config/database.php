@@ -7,9 +7,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost'; 
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'W@sistemas2017';
-$db['default']['database'] = 'wos';
+$db['default']['username'] = 'USER';
+$db['default']['password'] = 'PASSWORD';
+$db['default']['database'] = 'DATABASE';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
